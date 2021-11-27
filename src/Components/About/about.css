@@ -1,0 +1,36 @@
+.about-heading {
+    width: 100%;
+    height: 80vh;
+    background-image: url("https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/team-title-img-1.jpg");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-about {
+    font-size: 5em;
+    letter-spacing: 2px;
+}
+.about-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.about-us-title {
+    width: 25%;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #000;
+}
+.about-address {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #000;
+}
+
+@media only screen and (max-width: 450px) {
+    .name-about {
+        font-size: 3em;
+        letter-spacing: 1px;
+    }
+}

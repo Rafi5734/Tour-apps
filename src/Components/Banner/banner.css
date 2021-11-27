@@ -1,0 +1,39 @@
+.banner-class {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://bonvoyage.qodeinteractive.com/wp-content/uploads/2018/02/h2-background-img-1.jpg");
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-heading {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 70px;
+    font-weight: bold;
+}
+.banner-para {
+    width: 90%;
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+}
+.banner-btn {
+    width: 20%;
+    height: 60px;
+    border: none;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 450px) {
+    .banner-heading {
+        font-size: 40px;
+        margin-left: 35px;
+    }
+    .banner-para {
+        margin-left: 35px;
+    }
+    .banner-btn {
+        width: 40%;
+        margin-left: 35px;
+    }
+}

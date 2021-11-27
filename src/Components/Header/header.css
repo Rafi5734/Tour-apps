@@ -1,0 +1,24 @@
+.sign-btn {
+    position: relative;
+}
+.sign-in-img {
+    position: relative;
+    margin: 5px;
+    border-radius: 25px;
+    width: 20%;
+}
+.navbar-link {
+    text-decoration: none;
+    position: relative;
+    left: 150px;
+    margin-left: 30px;
+}
+.the-cart {
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(221, 186, 235, 0.507);
+}
+.navbar-title {
+    font-weight: bold;
+    color: greenyellow;
+}
