@@ -1,7 +1,7 @@
 # YACHT & MARINE Application
 
 
-## YACHT & MARINE live link (https://tour-application-979ee.web.app/)
+## YACHT & MARINE live link (https://yachart-and-marine-tour-app.web.app/)
 ## YACHT & MARINE Server live link (https://ghastly-castle-73206.herokuapp.com/tours)
 
 ### `Why this apps is special:`
